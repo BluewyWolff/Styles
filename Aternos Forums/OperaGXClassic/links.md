@@ -10,6 +10,8 @@ This only on the Aternos Forums, and not the Aternos website itself. I may howev
 2. Install the theme [on the Userstyles website](https://userstyles.org/styles/224915/opera-gx-theme-aternos-forums?utm_campaign=stylish_stylepage)
 3. Enable it and go to https://board.aternos.org
 
+* If you use Opera, you must install the Chrome extension as Stylish no longer offers an extension on Opera's extension marketplace. First, you need to install the [install chrome extensions](https://addons.opera.com/en-gb/extensions/details/install-chrome-extensions/) extension.
+
 #### Amino
 1. Install [the amino extension](https://chrome.google.com/webstore/detail/amino-live-css-editor/pbcpfbcibpcbfbmddogfhcijfpboeaaf).
 2. Create an account on https://aminoeditor.com.
